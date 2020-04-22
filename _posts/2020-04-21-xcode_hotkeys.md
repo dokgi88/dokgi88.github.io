@@ -26,3 +26,6 @@ date: 2019-04-21
 
 - Unfold Current Block
   <br>- option + command + right
+
+- Delete Line Hotkey Setting
+  <br> preference > key bindings > delete line (*recommend : option + d)
